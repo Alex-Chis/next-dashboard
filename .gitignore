@@ -12,8 +12,7 @@
 /.next/
 /out/
 
-#error vercel
-/app/seed/
+
 
 # production
 /build
